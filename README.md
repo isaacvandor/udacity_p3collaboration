@@ -27,7 +27,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Instructions
 
-To train the agent run the cells in the [Jupyter Workspace](Tennis.ipynb)
+To train the agent run the cells in the [Jupyter Notebook](Tennis.ipynb)
 
 The report describing my implementation is available in [Report.md](Report.md). 
 
