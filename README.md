@@ -27,10 +27,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Instructions
 
-To train the agent run the cells in the [Jupyter Workspace](ddpg_main.py)
+To train the agent run the cells in the [Jupyter Workspace](Tennis.ipynb)
 
 The report describing my implementation is available in [Report.md](Report.md). 
 
-Agent code is available in [maddpg_agent.py](ddpg_agent.py) and model code is stored in [ddpg_model.py](ddpg_model.py). 
+Agent code is available in [maddpg_agent.py](maddpg_agent.py) and model code is stored in [ddpg_model.py](ddpg_model.py). 
 
 Actor and critic model weights are stored in [cpt_actor.pth](cpt_actor.pth) and [cpt_critic.pth](cpt_critic.pth)
